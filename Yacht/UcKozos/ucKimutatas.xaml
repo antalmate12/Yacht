@@ -1,0 +1,68 @@
+﻿<UserControl x:Class="Yacht.UcKozos.ucKimutatas"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:wpf="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+             mc:Ignorable="d" Height="540" Width="1020" Background="WhiteSmoke">
+    
+    <Grid Margin="15, 20, 15, 15" MaxHeight="350" MaxWidth="400" Loaded="FrameworkElement_OnLoaded">
+        <Grid.Effect>
+            <DropShadowEffect BlurRadius="15" Direction="-90" RenderingBias="Quality" Opacity=".2" ShadowDepth="1"/>
+        </Grid.Effect>
+        <Grid.OpacityMask>
+            <VisualBrush Visual="{Binding ElementName=Border2}" />
+        </Grid.OpacityMask>
+        <Grid.Resources>
+            <Style TargetType="wpf:ColumnSeries">
+                <Setter Property="StrokeThickness" Value="0"></Setter>
+                <Setter Property="Stroke" Value="White"></Setter>
+                <Setter Property="Fill" Value="White"></Setter>
+                <Setter Property="MaxColumnWidth" Value="5"></Setter>
+            </Style>
+            <Style TargetType="wpf:Axis">
+                <!-- BETŰMÉRET -->
+                <Setter Property="FontSize" Value="12"></Setter>
+                <!---->
+                <Setter Property="Foreground" Value="#64FFFFFF"></Setter>
+                <Style.Triggers>
+                    <Trigger Property="AxisOrientation" Value="y">
+                        <Setter Property="IsMerged" Value="False"></Setter>
+                        <!-- MAX ÉRTÉK BEÁLLÍTÁSA -->
+                        <Setter x:Name="MaxValue" Property="MaxValue" Value="10"></Setter>
+                        <!---->
+                    </Trigger>
+                </Style.Triggers>
+            </Style>
+            <Style TargetType="wpf:Separator">
+                <Setter Property="StrokeThickness" Value="1"></Setter>
+                <Setter Property="Stroke" Value="#4BFFFFFF"></Setter>
+                <Style.Triggers>
+                    <Trigger Property="AxisOrientation" Value="X">
+                        <Setter Property="IsEnabled" Value="False"></Setter>
+                        <Setter Property="Step" Value="1"></Setter>
+                    </Trigger>
+                </Style.Triggers>
+            </Style>
+        </Grid.Resources>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height=".50*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Border x:Name="Border2" Grid.Row="0" Grid.RowSpan="3" CornerRadius="10" Background="White" />
+        <!--HÁTTÉR BEÁLLÍTÁSA-->
+        <Border Grid.Row="0" Grid.RowSpan="3" Background="#2196f3" ></Border>
+        <!---->
+        <TextBlock Text="Time Power" Grid.Row="0" TextAlignment="Center" Padding="10, 10, 0, 5" Foreground="White"
+                   FontSize="24" />
+
+        <wpf:CartesianChart Name="TimePowerChart" Grid.Row="2" Margin="10, 0, 10, 20" Hoverable="False"
+                            DataTooltip="{x:Null}">
+            <wpf:CartesianChart.Series>
+                <wpf:ColumnSeries x:Name="Adatok" Values="1,5,8,2,9" />
+            </wpf:CartesianChart.Series>
+        </wpf:CartesianChart>
+        
+    </Grid>
+</UserControl>

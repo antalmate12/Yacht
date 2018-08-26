@@ -1,0 +1,70 @@
+﻿<Window x:Class="Yacht.ConfirmWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Függő Kölcsönzések"
+        mc:Ignorable="d" Height="540" Width="1020" ResizeMode="NoResize">
+
+    <Grid Background="White" Loaded="GridLoaded">
+
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="900" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+
+        <!-- BAL OLDAL -->
+        <Grid Width="1014" HorizontalAlignment="Left" Grid.ColumnSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition />
+                <ColumnDefinition/>
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Text="Kölcsönző neve:" Grid.Row="0" Grid.Column="0"/>
+            <TextBlock Text="A Kölcsönzőről:" Grid.Row="1" Grid.Column="0"/>
+            <TextBlock Text="Hajó neve:" Grid.Row="2" Grid.Column="0" />
+            <TextBlock Text="Mettől:" Grid.Row="3" Grid.Column="0"/>
+            <TextBlock Text="Meddig:" Grid.Row="4" Grid.Column="0"/>
+            <TextBlock Text="Honnan:" Grid.Row="5" Grid.Column="0"/>
+            <TextBlock Text="Hova:" Grid.Row="6" Grid.Column="0"/>
+
+            <TextBox x:Name="TbKolcsNev" Grid.Row="0" Grid.Column="1"/>
+            <TextBox x:Name="TbKolcsAbout" Grid.Row="1" Grid.Column="1"/>
+            <TextBox x:Name="TbHajoNev" Grid.Row="2" Grid.Column="1"/>
+            <DatePicker x:Name="DpMettol" Grid.Row="3" Grid.Column="1"/>
+            <DatePicker x:Name="DpMeddig" Grid.Row="4" Grid.Column="1"/>
+            <TextBox x:Name="TbHonnan" Grid.Row="5" Grid.Column="1"/>
+            <TextBox x:Name="TbHova" Grid.Row="6" Grid.Column="1"/>
+
+            <Button x:Name="ButtonConfirm" Click="ButtonConfirm_Click" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="1">
+                <materialDesign:PackIcon Kind="Check" />
+            </Button>
+            <Button x:Name="ButtonCancel" Click="ButtonCancel_Click" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="3">
+                <materialDesign:PackIcon Kind="Cancel" />
+            </Button>
+
+            <ListBox x:Name="ListBoxKolcs" Grid.Column="3" Height="481" VerticalAlignment="Bottom" Foreground="White"
+                     SelectionChanged="ListBoxKolcs_SelectionChanged"
+                     ScrollViewer.HorizontalScrollBarVisibility="Auto" Background="#FF31577E" Grid.Row="0"
+                     Grid.RowSpan="7" />
+
+            <TextBlock Grid.Row="0" Grid.Column="3" VerticalAlignment="Top" Text="Kölcsönzések" Foreground="White"
+                       Background="#FF31577E" Height="30" FontSize="18" TextAlignment="Center" />
+
+        </Grid>
+    </Grid>
+</Window>

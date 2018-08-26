@@ -1,0 +1,76 @@
+﻿<UserControl x:Class="Yacht.UserControlAdminReg"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d" Height="540" Width="1020" Foreground="Black" Background="White">
+
+    <Grid>
+        <TextBlock x:Name="TbTagok" Text="Regisztráció" Foreground="White" FontSize="36" VerticalAlignment="Top"
+                   HorizontalAlignment="Stretch" Background="#FF31577E" TextAlignment="Left" />
+        
+        <StackPanel x:Name="SpRegFelhasznalo" HorizontalAlignment="Left" Height="250" 
+                    VerticalAlignment="Center" Width="180" Margin="80,145,0,145">
+            <Grid Height="250">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="25"/>
+                    <RowDefinition Height="25"/>
+                    <RowDefinition Height="25"/>
+                    <RowDefinition Height="25"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="30"/>
+                </Grid.RowDefinitions>
+                <TextBlock x:Name="TextBlockReg" Text="Felhasználó regisztrálása" FontSize="14" Grid.Row="0"/>
+                <Label x:Name="LRegUsername" Content="Felhasználónév" Grid.Row="1"/>
+                <TextBox x:Name="TbRegUsername" Grid.Row="2"/>
+                <Label x:Name="LRegPass" Content="Jelszó" Grid.Row="3"/>
+                <PasswordBox x:Name="TbRegPass" Grid.Row="4"/>
+                <CheckBox x:Name="CbRegAdmin" Content="Adminisztrátor" Grid.Row="5" Height="26" VerticalAlignment="Top"/>
+                <Button x:Name="BtStartReg" Content="Regisztráció"  Click="BtStartReg_Click" Grid.Row="6" VerticalAlignment="Top"/>
+            </Grid>
+
+        </StackPanel>
+
+        <StackPanel x:Name="SpRegHajo" HorizontalAlignment="Left" Height="250" 
+                    VerticalAlignment="Top" Width="180" Margin="355,145,0,0">
+            <Grid Height="250">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="25"/>
+                    <RowDefinition Height="25"/>
+                    <RowDefinition Height="25"/>
+                    <RowDefinition Height="25"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <TextBlock Text="Hajó regisztrálása" FontSize="14" Grid.Row="0" Height="25"/>
+                <Label Grid.Row="1" Content="Hajó Név" Height="25"/>
+                <TextBox Grid.Row="2" x:Name="TbRegHajoNev" Height="25"/>
+                <Label Grid.Row="3" Content="Tulajdonos (felhasználónév)"/>
+                <TextBox Grid.Row="4" x:Name="TbRegHajoTulaj" Height="25"/>
+                <Button Grid.Row="5" x:Name="BtStartRegHajo" Content="Regisztráció" VerticalAlignment="Bottom" 
+                        Click="BtStartRegHajo_Click_1"/>
+            </Grid>
+        </StackPanel>
+
+        <StackPanel x:Name="SpRegTreler" HorizontalAlignment="Left" Height="250" 
+                    VerticalAlignment="Top" Width="180" Margin="647,145,0,0">
+            <Grid Height="250">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="25"/>
+                    <RowDefinition Height="25"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <TextBlock Text="Szállítóeszköz regisztrálása" FontSize="14" Grid.Row="0" Height="25"/>
+                <Label Grid.Row="1" Content="Tulajdonos (felhasználónév)" Height="25"/>
+                <TextBox Grid.Row="2" x:Name="TbRegTrelerTulaj" Height="25"/>
+                <Button Grid.Row="3" x:Name="BtStartRegTreler" Content="Regisztráció" VerticalAlignment="Bottom" 
+                        Width="180" Click="BtStartRegTreler_Click_1"/>
+
+            </Grid>
+            
+        </StackPanel>
+    </Grid>
+
+</UserControl>

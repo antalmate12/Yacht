@@ -1,0 +1,48 @@
+﻿<UserControl x:Class="Yacht.UcTag.UserControlTagProfil"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d" Height="540" Width="1020"
+             >
+    <Grid Background="White">
+        <TextBlock Text="Profil" FontSize="48" VerticalAlignment="Top" HorizontalAlignment="Stretch"
+                   Background="#FF31577E" Foreground="White" Width="1020" TextAlignment="Left"
+                   FontFamily="Calibri Light" />
+
+        <StackPanel Width="400" Height="130" HorizontalAlignment="Left" VerticalAlignment="Center"
+                    Margin="20,171,0,239">
+            <Grid Background="White">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30" />
+                    <RowDefinition Height="100" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="100" />
+                    <ColumnDefinition Width="300" />
+                </Grid.ColumnDefinitions>
+                <!-- BAL OLDAL -->
+                <TextBlock x:Name="TbMyName" Text="Teljes Név:" HorizontalAlignment="Left" VerticalAlignment="Center"
+                           Grid.Row="0"
+                           Grid.Column="0" Margin="5,0,0,0" FontWeight="SemiBold" Loaded="TbMyName_OnLoaded"
+                           FontFamily="Calibri Light" FontSize="13" Foreground="Black" />
+                <TextBlock Text="Magamról:" HorizontalAlignment="Left" VerticalAlignment="Center" Grid.Row="1"
+                           Grid.Column="0" Margin="5,0,0,0" FontWeight="SemiBold"
+                           FontFamily="Calibri Light" FontSize="13" Foreground="Black" />
+                <!-- BAL OLDAL -->
+
+                <!-- JOBB OLDAL -->
+                <TextBox x:Name="Tb1" Grid.Row="0" Grid.Column="1" Foreground="Black" IsReadOnly="True" />
+                <TextBox x:Name="Tb2" Grid.Row="1" Grid.Column="1" Foreground="Black" IsReadOnly="True" />
+                <!-- JOBB OLDAL -->
+
+            </Grid>
+        </StackPanel>
+        <Button x:Name="BtEditData" Content="Szerkesztés" Margin="20,306,895,202" Click="BtEditData_OnClick" />
+        <Button x:Name="BtEditDone" Content="Kész" Margin="20,306,895,202" Click="BtEditDone_OnClick"
+                Visibility="Hidden" />
+        <Button x:Name="BtCancel" Content="Mégse" Margin="144,306,771,202" Click="BtCancel_OnClick" Visibility="Hidden"/>
+
+    </Grid>
+
+</UserControl>

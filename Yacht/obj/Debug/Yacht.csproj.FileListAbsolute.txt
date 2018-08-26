@@ -1,0 +1,355 @@
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\Yacht.csprojResolveAssemblyReference.cache
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\ConfirmWindow.baml
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\LoginWindow.baml
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\UcAdmin\UserControlAdminManage.baml
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\UcAdmin\UserControlAdminReg.baml
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\UcKozos\UserControlTagProfil.baml
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\UcKozos\UserControlHajok.baml
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\Window1.baml
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\Window2.baml
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\ConfirmWindow.g.cs
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\LoginWindow.g.cs
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\UcAdmin\UserControlAdminManage.g.cs
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\UcAdmin\UserControlAdminReg.g.cs
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\UcKozos\UserControlTagProfil.g.cs
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\UcKozos\UserControlHajok.g.cs
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\Window1.g.cs
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\Window2.g.cs
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\App.g.cs
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\Yacht_Content.g.cs
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\Yacht_MarkupCompile.cache
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\Yacht_MarkupCompile.lref
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\Yacht.exe
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\Yacht.pdb
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\bin\Debug\DBYacht.mdf
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\bin\Debug\DBYacht_log.ldf
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\bin\Debug\Yacht.exe.config
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\bin\Debug\Yacht.exe
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\bin\Debug\Yacht.pdb
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\bin\Debug\MaterialDesignColors.dll
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\App.baml
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\Yacht.g.resources
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\Yacht.Properties.Resources.resources
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\Yacht.csproj.GenerateResource.Cache
+C:\Users\antal\Desktop\Yacht\Yacht1.6\Yacht\obj\Debug\Yacht.csproj.CoreCompileInputs.cache
+C:\Users\antal\Desktop\Yacht1.7\Yacht\bin\Debug\DBYacht.mdf
+C:\Users\antal\Desktop\Yacht1.7\Yacht\bin\Debug\DBYacht_log.ldf
+C:\Users\antal\Desktop\Yacht1.7\Yacht\bin\Debug\Yacht.exe.config
+C:\Users\antal\Desktop\Yacht1.7\Yacht\bin\Debug\Yacht.exe
+C:\Users\antal\Desktop\Yacht1.7\Yacht\bin\Debug\Yacht.pdb
+C:\Users\antal\Desktop\Yacht1.7\Yacht\bin\Debug\MaterialDesignColors.dll
+C:\Users\antal\Desktop\Yacht1.7\Yacht\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\antal\Desktop\Yacht1.7\Yacht\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\antal\Desktop\Yacht1.7\Yacht\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\Yacht.csprojResolveAssemblyReference.cache
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\ConfirmWindow.baml
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\LoginWindow.baml
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\UcAdmin\UserControlAdminManage.baml
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\UcAdmin\UserControlAdminReg.baml
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\UcKozos\UserControlTagProfil.baml
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\UcKozos\UserControlHajok.baml
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\Window1.baml
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\Window2.baml
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\ConfirmWindow.g.cs
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\LoginWindow.g.cs
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\UcAdmin\UserControlAdminManage.g.cs
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\UcAdmin\UserControlAdminReg.g.cs
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\UcKozos\UserControlTagProfil.g.cs
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\UcKozos\UserControlHajok.g.cs
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\Window1.g.cs
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\Window2.g.cs
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\App.g.cs
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\Yacht_Content.g.cs
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\Yacht_MarkupCompile.cache
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\Yacht_MarkupCompile.lref
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\App.baml
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\Yacht.g.resources
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\Yacht.Properties.Resources.resources
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\Yacht.csproj.GenerateResource.Cache
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\Yacht.csproj.CoreCompileInputs.cache
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\Yacht.exe
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\Yacht.pdb
+E:\Yacht1.7\Yacht\bin\Debug\Yacht.exe.config
+E:\Yacht1.7\Yacht\obj\Debug\Yacht.exe
+E:\Yacht1.7\Yacht\obj\Debug\Yacht.pdb
+E:\Yacht1.7\Yacht\bin\Debug\DBYacht.mdf
+E:\Yacht1.7\Yacht\bin\Debug\DBYacht_log.ldf
+E:\Yacht1.7\Yacht\bin\Debug\Yacht.exe
+E:\Yacht1.7\Yacht\bin\Debug\Yacht.pdb
+E:\Yacht1.7\Yacht\bin\Debug\MaterialDesignColors.dll
+E:\Yacht1.7\Yacht\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Yacht1.7\Yacht\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Yacht1.7\Yacht\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Yacht1.7\Yacht\obj\Debug\Yacht.csprojResolveAssemblyReference.cache
+E:\Yacht1.7\Yacht\obj\Debug\ConfirmWindow.baml
+E:\Yacht1.7\Yacht\obj\Debug\LoginWindow.baml
+E:\Yacht1.7\Yacht\obj\Debug\UcAdmin\UserControlAdminManage.baml
+E:\Yacht1.7\Yacht\obj\Debug\UcAdmin\UserControlAdminReg.baml
+E:\Yacht1.7\Yacht\obj\Debug\UcKozos\UserControlTagProfil.baml
+E:\Yacht1.7\Yacht\obj\Debug\UcKozos\UserControlHajok.baml
+E:\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlTagKolcsHajo.baml
+E:\Yacht1.7\Yacht\obj\Debug\Window1.baml
+E:\Yacht1.7\Yacht\obj\Debug\Window2.baml
+E:\Yacht1.7\Yacht\obj\Debug\ConfirmWindow.g.cs
+E:\Yacht1.7\Yacht\obj\Debug\LoginWindow.g.cs
+E:\Yacht1.7\Yacht\obj\Debug\UcAdmin\UserControlAdminManage.g.cs
+E:\Yacht1.7\Yacht\obj\Debug\UcAdmin\UserControlAdminReg.g.cs
+E:\Yacht1.7\Yacht\obj\Debug\UcKozos\UserControlTagProfil.g.cs
+E:\Yacht1.7\Yacht\obj\Debug\UcKozos\UserControlHajok.g.cs
+E:\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlKolcsonzeseim.g.cs
+E:\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlTagKolcsHajo.g.cs
+E:\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlTagKolcsTreler.g.cs
+E:\Yacht1.7\Yacht\obj\Debug\Window1.g.cs
+E:\Yacht1.7\Yacht\obj\Debug\Window2.g.cs
+E:\Yacht1.7\Yacht\obj\Debug\App.g.cs
+E:\Yacht1.7\Yacht\obj\Debug\Yacht_Content.g.cs
+E:\Yacht1.7\Yacht\obj\Debug\Yacht_MarkupCompile.cache
+E:\Yacht1.7\Yacht\obj\Debug\Yacht_MarkupCompile.lref
+E:\Yacht1.7\Yacht\obj\Debug\App.baml
+E:\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlKolcsonzeseim.baml
+E:\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlTagKolcsTreler.baml
+E:\Yacht1.7\Yacht\obj\Debug\Yacht.g.resources
+E:\Yacht1.7\Yacht\obj\Debug\Yacht.Properties.Resources.resources
+E:\Yacht1.7\Yacht\obj\Debug\Yacht.csproj.GenerateResource.Cache
+F:\Yacht1.7\Yacht\bin\Debug\DBYacht.mdf
+F:\Yacht1.7\Yacht\bin\Debug\DBYacht_log.ldf
+F:\Yacht1.7\Yacht\bin\Debug\Yacht.exe.config
+F:\Yacht1.7\Yacht\bin\Debug\Yacht.exe
+F:\Yacht1.7\Yacht\bin\Debug\Yacht.pdb
+F:\Yacht1.7\Yacht\bin\Debug\MaterialDesignColors.dll
+F:\Yacht1.7\Yacht\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Yacht1.7\Yacht\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Yacht1.7\Yacht\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Yacht1.7\Yacht\obj\Debug\Yacht.csprojResolveAssemblyReference.cache
+F:\Yacht1.7\Yacht\obj\Debug\ConfirmWindow.baml
+F:\Yacht1.7\Yacht\obj\Debug\LoginWindow.baml
+F:\Yacht1.7\Yacht\obj\Debug\UcAdmin\UserControlAdminManage.baml
+F:\Yacht1.7\Yacht\obj\Debug\UcAdmin\UserControlAdminReg.baml
+F:\Yacht1.7\Yacht\obj\Debug\UcKozos\UserControlTagProfil.baml
+F:\Yacht1.7\Yacht\obj\Debug\UcKozos\UserControlHajok.baml
+F:\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlTagKolcsHajo.baml
+F:\Yacht1.7\Yacht\obj\Debug\Window1.baml
+F:\Yacht1.7\Yacht\obj\Debug\Window2.baml
+F:\Yacht1.7\Yacht\obj\Debug\ConfirmWindow.g.cs
+F:\Yacht1.7\Yacht\obj\Debug\LoginWindow.g.cs
+F:\Yacht1.7\Yacht\obj\Debug\UcAdmin\UserControlAdminManage.g.cs
+F:\Yacht1.7\Yacht\obj\Debug\UcAdmin\UserControlAdminReg.g.cs
+F:\Yacht1.7\Yacht\obj\Debug\UcKozos\UserControlTagProfil.g.cs
+F:\Yacht1.7\Yacht\obj\Debug\UcKozos\UserControlHajok.g.cs
+F:\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlKolcsonzeseim.g.cs
+F:\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlTagKolcsHajo.g.cs
+F:\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlTagKolcsTreler.g.cs
+F:\Yacht1.7\Yacht\obj\Debug\Window1.g.cs
+F:\Yacht1.7\Yacht\obj\Debug\Window2.g.cs
+F:\Yacht1.7\Yacht\obj\Debug\App.g.cs
+F:\Yacht1.7\Yacht\obj\Debug\Yacht_Content.g.cs
+F:\Yacht1.7\Yacht\obj\Debug\Yacht_MarkupCompile.cache
+F:\Yacht1.7\Yacht\obj\Debug\Yacht_MarkupCompile.lref
+F:\Yacht1.7\Yacht\obj\Debug\App.baml
+F:\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlKolcsonzeseim.baml
+F:\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlTagKolcsTreler.baml
+F:\Yacht1.7\Yacht\obj\Debug\Yacht.g.resources
+F:\Yacht1.7\Yacht\obj\Debug\Yacht.Properties.Resources.resources
+F:\Yacht1.7\Yacht\obj\Debug\Yacht.csproj.GenerateResource.Cache
+F:\Yacht1.7\Yacht\obj\Debug\Yacht.csproj.CoreCompileInputs.cache
+F:\Yacht1.7\Yacht\obj\Debug\Yacht.exe
+F:\Yacht1.7\Yacht\obj\Debug\Yacht.pdb
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlKolcsonzeseim.g.cs
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlTagKolcsTreler.g.cs
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlTagKolcsHajo.baml
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlTagKolcsHajo.g.cs
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlKolcsonzeseim.baml
+C:\Users\antal\Desktop\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlTagKolcsTreler.baml
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\bin\Debug\DBYacht.mdf
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\bin\Debug\DBYacht_log.ldf
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\bin\Debug\Yacht.exe.config
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\bin\Debug\Yacht.exe
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\bin\Debug\Yacht.pdb
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\bin\Debug\MaterialDesignColors.dll
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\Yacht.csprojResolveAssemblyReference.cache
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\ConfirmWindow.baml
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\LoginWindow.baml
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\UcAdmin\UserControlAdminManage.baml
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\UcAdmin\UserControlAdminReg.baml
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\UcKozos\UserControlTagProfil.baml
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\UcKozos\UserControlHajok.baml
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlTagKolcsHajo.baml
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlTagKolcsTreler.baml
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\Window1.baml
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\Window2.baml
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\ConfirmWindow.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\LoginWindow.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\UcAdmin\UserControlAdminManage.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\UcAdmin\UserControlAdminReg.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\UcKozos\UserControlTagProfil.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\UcKozos\UserControlHajok.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlKolcsonzeseim.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlTagKolcsHajo.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlTagKolcsTreler.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\Window1.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\Window2.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\App.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\Yacht_Content.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\Yacht_MarkupCompile.cache
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\Yacht_MarkupCompile.lref
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\App.baml
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlKolcsonzeseim.baml
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\Yacht.g.resources
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\Yacht.Properties.Resources.resources
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\Yacht.csproj.GenerateResource.Cache
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\Yacht.csproj.CoreCompileInputs.cache
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\Yacht.exe
+C:\Users\Mahonix\Desktop\Yacht1.7\Yacht1.7\Yacht\obj\Debug\Yacht.pdb
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\bin\Debug\DBYacht.mdf
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\bin\Debug\DBYacht_log.ldf
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\bin\Debug\Yacht.exe.config
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\bin\Debug\Yacht.exe
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\bin\Debug\Yacht.pdb
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\bin\Debug\MaterialDesignColors.dll
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\Yacht.csprojResolveAssemblyReference.cache
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\ConfirmWindow.baml
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\LoginWindow.baml
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\UcAdmin\UserControlAdminManage.baml
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\UcAdmin\UserControlAdminReg.baml
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\UcKozos\UserControlTagProfil.baml
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\UcKozos\UserControlHajok.baml
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlTagKolcsHajo.baml
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlTagKolcsTreler.baml
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\Window1.baml
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\Window2.baml
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\ConfirmWindow.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\LoginWindow.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\UcAdmin\UserControlAdminManage.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\UcAdmin\UserControlAdminReg.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\UcKozos\UserControlTagProfil.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\UcKozos\UserControlHajok.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlKolcsonzeseim.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlTagKolcsHajo.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlTagKolcsTreler.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\Window1.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\Window2.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\App.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\Yacht_Content.g.cs
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\Yacht_MarkupCompile.cache
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\Yacht_MarkupCompile.lref
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\App.baml
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\UcTag\UserControlKolcsonzeseim.baml
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\Yacht.g.resources
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\Yacht.Properties.Resources.resources
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\Yacht.csproj.GenerateResource.Cache
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\Yacht.csproj.CoreCompileInputs.cache
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\Yacht.exe
+C:\Users\Mahonix\Desktop\Yacht1.7 másolata\Yacht1.7\Yacht\obj\Debug\Yacht.pdb
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\bin\Debug\DBYacht.mdf
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\bin\Debug\DBYacht_log.ldf
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\bin\Debug\Yacht.exe.config
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\bin\Debug\Yacht.exe
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\bin\Debug\Yacht.pdb
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\bin\Debug\MaterialDesignColors.dll
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\Yacht.csprojResolveAssemblyReference.cache
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\ConfirmWindow.baml
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\LoginWindow.baml
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\UcAdmin\UserControlAdminManage.baml
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\UcAdmin\UserControlAdminReg.baml
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\UcKozos\UserControlTagProfil.baml
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\UcKozos\UserControlHajok.baml
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\UcTag\UserControlTagKolcsHajo.baml
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\UcTag\UserControlTagKolcsTreler.baml
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\Window1.baml
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\Window2.baml
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\ConfirmWindow.g.cs
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\LoginWindow.g.cs
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\UcAdmin\UserControlAdminManage.g.cs
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\UcAdmin\UserControlAdminReg.g.cs
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\UcKozos\UserControlTagProfil.g.cs
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\UcKozos\UserControlHajok.g.cs
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\UcTag\UserControlKolcsonzeseim.g.cs
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\UcTag\UserControlTagKolcsHajo.g.cs
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\UcTag\UserControlTagKolcsTreler.g.cs
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\Window1.g.cs
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\Window2.g.cs
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\App.g.cs
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\Yacht_Content.g.cs
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\Yacht_MarkupCompile.cache
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\Yacht_MarkupCompile.lref
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\App.baml
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\UcTag\UserControlKolcsonzeseim.baml
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\Yacht.g.resources
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\Yacht.Properties.Resources.resources
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\Yacht.csproj.GenerateResource.Cache
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\Yacht.csproj.CoreCompileInputs.cache
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\Yacht.exe
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\Yacht.pdb
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\bin\Debug\LiveCharts.dll
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\bin\Debug\LiveCharts.pdb
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\bin\Debug\LiveCharts.xml
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\bin\Debug\MaterialDesignColors.pdb
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\UcKozos\ucKimutatas.baml
+C:\Users\antal\Desktop\Yacht1.8\Yacht1.8\Yacht\obj\Debug\UcKozos\ucKimutatas.g.cs
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\Yacht.csprojResolveAssemblyReference.cache
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\ConfirmWindow.baml
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\LoginWindow.baml
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\UcAdmin\UserControlAdminManage.baml
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\UcAdmin\UserControlAdminReg.baml
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\UcKozos\ucKimutatas.baml
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\UcKozos\UserControlTagProfil.baml
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\UcKozos\UserControlHajok.baml
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\UcTag\UserControlKolcsonzeseim.baml
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\UcTag\UserControlTagKolcsHajo.baml
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\UcTag\UserControlTagKolcsTreler.baml
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\Window1.baml
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\Window2.baml
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\ConfirmWindow.g.cs
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\LoginWindow.g.cs
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\UcAdmin\UserControlAdminManage.g.cs
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\UcAdmin\UserControlAdminReg.g.cs
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\UcKozos\ucKimutatas.g.cs
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\UcKozos\UserControlTagProfil.g.cs
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\UcKozos\UserControlHajok.g.cs
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\UcTag\UserControlKolcsonzeseim.g.cs
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\UcTag\UserControlTagKolcsHajo.g.cs
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\UcTag\UserControlTagKolcsTreler.g.cs
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\Window1.g.cs
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\Window2.g.cs
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\App.g.cs
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\Yacht_Content.g.cs
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\Yacht_MarkupCompile.cache
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\Yacht_MarkupCompile.lref
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\Yacht.exe
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\Yacht.pdb
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\bin\Debug\DBYacht.mdf
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\bin\Debug\DBYacht_log.ldf
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\bin\Debug\Yacht.exe.config
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\bin\Debug\Yacht.exe
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\bin\Debug\Yacht.pdb
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\bin\Debug\LiveCharts.dll
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\bin\Debug\MaterialDesignColors.dll
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\bin\Debug\LiveCharts.pdb
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\bin\Debug\LiveCharts.xml
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\bin\Debug\MaterialDesignColors.pdb
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\App.baml
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\Yacht.g.resources
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\Yacht.Properties.Resources.resources
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\Yacht.csproj.GenerateResource.Cache
+C:\Users\antal\Desktop\Yacht1.8.2 másolata\Yacht1.8\Yacht\obj\Debug\Yacht.csproj.CoreCompileInputs.cache
